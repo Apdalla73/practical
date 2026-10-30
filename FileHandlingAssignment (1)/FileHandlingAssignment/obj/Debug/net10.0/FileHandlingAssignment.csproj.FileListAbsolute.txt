@@ -1,0 +1,15 @@
+C:\Users\cxc computer\Downloads\FileHandlingAssignment (1)\FileHandlingAssignment\bin\Debug\net10.0\FileHandlingAssignment.exe
+C:\Users\cxc computer\Downloads\FileHandlingAssignment (1)\FileHandlingAssignment\bin\Debug\net10.0\FileHandlingAssignment.deps.json
+C:\Users\cxc computer\Downloads\FileHandlingAssignment (1)\FileHandlingAssignment\bin\Debug\net10.0\FileHandlingAssignment.runtimeconfig.json
+C:\Users\cxc computer\Downloads\FileHandlingAssignment (1)\FileHandlingAssignment\bin\Debug\net10.0\FileHandlingAssignment.dll
+C:\Users\cxc computer\Downloads\FileHandlingAssignment (1)\FileHandlingAssignment\bin\Debug\net10.0\FileHandlingAssignment.pdb
+C:\Users\cxc computer\Downloads\FileHandlingAssignment (1)\FileHandlingAssignment\obj\Debug\net10.0\FileHandlingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cxc computer\Downloads\FileHandlingAssignment (1)\FileHandlingAssignment\obj\Debug\net10.0\FileHandlingAssignment.AssemblyInfoInputs.cache
+C:\Users\cxc computer\Downloads\FileHandlingAssignment (1)\FileHandlingAssignment\obj\Debug\net10.0\FileHandlingAssignment.AssemblyInfo.cs
+C:\Users\cxc computer\Downloads\FileHandlingAssignment (1)\FileHandlingAssignment\obj\Debug\net10.0\FileHandlingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cxc computer\Downloads\FileHandlingAssignment (1)\FileHandlingAssignment\obj\Debug\net10.0\FileHandlingAssignment.dll
+C:\Users\cxc computer\Downloads\FileHandlingAssignment (1)\FileHandlingAssignment\obj\Debug\net10.0\refint\FileHandlingAssignment.dll
+C:\Users\cxc computer\Downloads\FileHandlingAssignment (1)\FileHandlingAssignment\obj\Debug\net10.0\FileHandlingAssignment.pdb
+C:\Users\cxc computer\Downloads\FileHandlingAssignment (1)\FileHandlingAssignment\obj\Debug\net10.0\FileHandlingAssignment.genruntimeconfig.cache
+C:\Users\cxc computer\Downloads\FileHandlingAssignment (1)\FileHandlingAssignment\obj\Debug\net10.0\ref\FileHandlingAssignment.dll
+C:\Users\cxc computer\Downloads\FileHandlingAssignment (1)\FileHandlingAssignment\obj\Debug\net10.0\FileHand.A021C7D7.Up2Date
